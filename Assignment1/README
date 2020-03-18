@@ -1,0 +1,24 @@
+Execute part1.py by
+python3 part1.py
+
+requires: train.csv, test.csv
+creates: trainset.png, testset.png, para1deg.txt, para2deg.txt,para3deg.txt,para4deg.txt,para5deg.txt,
+para6deg.txt, para7deg.txt, para8deg.txt,para9deg.txt
+
+###########################################
+Execute part2.py by
+python3 part2.py
+
+requires : para1deg.txt, para2deg.txt,para3deg.txt,para4deg.txt,para5deg.txt,
+para6deg.txt, para7deg.txt, para8deg.txt,para9deg.txt,test.csv, train.csv
+
+creates: degree1.png, degree2.png, degree3.png, degree4.png, degree5.png,degree6.png,
+degree7.png, degree8.png, degree9.png, ErrorvsDegree.png, testerror.txt, trainingerror.txt
+###########################################
+Execute part3.py by
+python3 part3.py
+
+requires: train.csv, test.csv
+
+creates 'Degree 1 Lasso Regression.png', 'Degree 9 Lasso Regression.png', 'Degree 1 Ridge Regression.png'
+, 'Degree 9 Ridge Regression.png'
