@@ -1,0 +1,35 @@
+For Executing part A
+1. Put AllBooks_baseline_DTM_Labelled.csv in src folder
+2. Use command python3 partA.py
+   Will generate Processed.csv
+
+For Executing part B
+1 Part A has to be executed
+2. Use command python3 partB.py
+   Will generate agglomerative.txt
+
+For Executing part C
+1 Part A has to be executed
+2. Use command python3 partC.py
+   Will generate kmeans.txt
+
+For Executing part D
+1. Part A has to be executed
+2. Use command python3 partD.py
+   Will generate Processed_Reduced.csv
+3. Use command python3 partD_Agglomerative.py
+   Will generate agglomerative_reduced.txt
+4. Use command python3 partD_Kmeans.py
+   Will generate kmeans_reduced.txt
+
+For Executing part E
+1. part A, B, C and D must be executed
+2. Use command python3 partE.py
+
+agglomerative.txt  NMI : 0.02453170644644302
+kmeans.txt  NMI : 0.4914061098971812
+agglomerative_reduced.txt  NMI : 0.020318777406401596
+kmeans_reduced.txt  NMI : 0.5923780570700625
+
+NMI for Kmeans may change as initial centres are randomly selected
+NMI for agglomerative_reduced.txt may change depending on principle components
