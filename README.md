@@ -3,3 +3,5 @@
 Assignment1: Linear Regression
 
 Assignment2: Logistic Regression and Decision Tree
+
+Assignment3: Clustering and Dimension Reduction
