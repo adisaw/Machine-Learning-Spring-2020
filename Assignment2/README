@@ -1,0 +1,38 @@
+For Executing Task1
+1) Put winequality-red.csv file in src folder
+2) open terminal in src folder 
+3) run command : python3 part1.py
+
+For Executing Task2
+1) Task1 has to be completed
+2) run command on terminal : python3 part2.py
+
+Mean Accuracy  : 0.8799249530956849
+Mean Precision : 0.6263888888888888
+Mean Recall : 0.2996474735605171
+Mean Accuracy using scikit-learn : 0.8730456535334584
+Mean Precision scikit-learn : 0.5671422975770802
+Mean Recall scikit-learn : 0.3044783914349132
+
+
+Results can vary slightly as random shuffle function is being used
+
+For Executing Task3
+1) Task1 has to be completed
+2) run command on terminal : python3 part3.py
+
+Mean Macro Accuracy : 0.8248905565978736
+Mean Macro Precision : 0.4942804419424957
+Mean Macro Recall : 0.4336692269385143
+Mean Macro Accuracy using scikit-learn : 0.8167604752970608
+Mean Macro Precision using scikit-learn : 0.49391210640535704
+Mean Macro Recall using scikit-learn : 0.4268402528815958
+
+Results can vary slightly as random shuffle function is being used
+
+
+
+
+
+
+
