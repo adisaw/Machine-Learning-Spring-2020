@@ -1,0 +1,31 @@
+For executing part1
+1. Put the data.txt file in folder containing programs
+2. Use command python3 part1.py
+3. The final training and testing accuracy will be printed for both parts
+4. Graphs will be saved as Part1A.png and Part1B.png
+
+Part 1A:
+Training Accuracy : 0.9285714285714286
+Testing Accuracy : 0.9761904761904762
+ 
+Part 1B:
+Training Accuracy : 0.9880952380952381
+Testing Accuracy : 0.9761904761904762
+
+Values will change as weights are initialized randomly
+
+For executing part2
+1. Part1 has to be executed(Train and Test dataset made by part1)
+2. Use command python3 part2.py
+3. The final training and testing accuracy will be printed for both specification 
+
+Part 2 Specification 1A:
+Training Accuracy : 0.9345238095238095
+Testing Accuracy : 0.9761904761904762
+ 
+Part 2 Specification 1B
+Training Accuracy : 1.0
+Testing Accuracy : 0.9523809523809523
+
+
+
