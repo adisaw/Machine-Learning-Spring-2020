@@ -1,4 +1,4 @@
-# MachineLearningSpring2020
+# Machine Learning Spring 2020
 
 Assignment1: Linear Regression
 
